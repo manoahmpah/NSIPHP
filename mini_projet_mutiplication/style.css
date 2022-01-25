@@ -1,0 +1,35 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+#img_first_page{
+    width: 100%;
+    object-fit: cover;
+}
+
+.container{
+    position: relative;
+}
+
+#texte_first_page{
+position: absolute;
+  top: 40%;
+  left: 30%;
+  transform: translate(-20%, -50%);
+  font-family: 'Anton', sans-serif;
+}
+
+#texte_first_page a{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+
+#texte_first_page a:hover{
+    background-color: white;
+    color: black;
+}
