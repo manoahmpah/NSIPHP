@@ -5,6 +5,7 @@ body{
 
 #img_first_page{
     width: 100%;
+    height: 100vh;
     object-fit: cover;
 }
 
@@ -32,4 +33,8 @@ position: absolute;
 #texte_first_page a:hover{
     background-color: white;
     color: black;
+}
+
+.size{
+    height: 100vh;
 }

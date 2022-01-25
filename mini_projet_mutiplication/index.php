@@ -23,29 +23,30 @@
         </div>
     </section>
 
-    <section>
-    <form action="./" method="POST">
-        <label for="boutton">Choisit la table de multiplication, que tu veux apprendre
+    <section class="size">
+        <h2></h2>
+    <form action="./exercice.php" method="POST">
+        <label for="boutton">
             <br>1
-            <input id="boutton" type="radio" name="1">
+            <input id="boutton" type="checkbox" name="1">
             2
-            <input id="boutton" type="radio" name="2">   
+            <input id="boutton" type="checkbox" name="2">   
             3
-            <input id="boutton" type="radio" name="3">            
+            <input id="boutton" type="checkbox" name="3">            
             4
-            <input id="boutton" type="radio" name="4">            
+            <input id="boutton" type="checkbox" name="4">            
             5
-            <input id="boutton" type="radio" name="5">            
+            <input id="boutton" type="checkbox" name="5">            
             6
-            <input id="boutton" type="radio" name="6">            
+            <input id="boutton" type="checkbox" name="6">            
             7
-            <input id="boutton" type="radio" name="7">            
+            <input id="boutton" type="checkbox" name="7">            
             8
-            <input id="boutton" type="radio" name="8">            
+            <input id="boutton" type="checkbox" name="8">            
             9
-            <input id="boutton" type="radio" name="9">            
+            <input id="boutton" type="checkbox" name="9">            
             10
-            <input id="boutton" type="radio" name="10">
+            <input id="boutton" type="checkbox" name="10">
         </label>
         <input type="submit" name="" id="">
     </form>
