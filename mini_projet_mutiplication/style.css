@@ -27,14 +27,56 @@ position: absolute;
     color: white;
     padding: 10px;
     border-radius: 20px;
+    font-size: 140%;
 
+}
+
+#texte_first_page h2{
+    font-size: 250%;
 }
 
 #texte_first_page a:hover{
     background-color: white;
     color: black;
+    
 }
 
 .size{
-    height: 100vh;
+    height: 120vh;
+}
+
+.size h2{
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+
+#place_formulaire form{
+    position: absolute;
+    right: 75%;
+    transform: translate(50%, 100px);
+    width: fit-content;
+    padding: 1%;
+    border-radius: 20px;
+    font-size: 150%;
+    font-family: 'Anton', sans-serif;
+}
+
+#bouton{
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    transform: translate(300%);
+}
+
+
+#img_section2{
+    width: 47% ;
+    border-radius: 20px;
+   float: right;
+   margin-right: 10px;
+   margin-top: 80px;
+}
+
+footer{
+    border-top: dashed black 1px;
 }
