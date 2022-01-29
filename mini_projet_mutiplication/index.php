@@ -58,7 +58,7 @@
                     Avez vous besoins de cours de maths 
                     <input id="booleen" type="radio" value="OUI" name="booleen" required>
                     OUI
-                    <input id="booleen" type="radio" value="OUI" name="booleen" required>
+                    <input id="booleen" type="radio" value="NON" name="booleen" required>
                     NON
                 </label>
                 <br>
