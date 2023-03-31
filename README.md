@@ -1,3 +1,3 @@
 # NSIPHP
 
-📚 Some exercices for leraning PHP
+📚 Some exercises for learning PHP
